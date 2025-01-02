@@ -30,3 +30,9 @@ A simple Java-based painting application that allows users to create, move, resi
 - **Java OOP** for robust and modular design.  
 - **Swing Library** for a seamless GUI experience.  
 - **Serialization** for saving and loading shapes.
+
+## UML Class Diagram 📈  
+
+The system's design is based on Object-Oriented Programming (OOP) principles, using inheritance and polymorphism to manage shapes. Below is a textual representation of the UML class diagram for the application:
+
+"C:\Users\ghane\OneDrive\Documents\NetBeansProjects\Lab8\_Lab8_UML.png"
