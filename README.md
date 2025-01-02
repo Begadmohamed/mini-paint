@@ -35,4 +35,4 @@ A simple Java-based painting application that allows users to create, move, resi
 
 The system's design is based on Object-Oriented Programming (OOP) principles, using inheritance and polymorphism to manage shapes. Below is a textual representation of the UML class diagram for the application:
 
-"C:\Users\ghane\OneDrive\Documents\NetBeansProjects\Lab8\_Lab8_UML.png"
+![UML Diagram]("C:\Users\ghane\OneDrive\Documents\NetBeansProjects\Lab8\_Lab8_UML.png")
