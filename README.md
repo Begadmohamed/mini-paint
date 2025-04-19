@@ -1,4 +1,4 @@
-# Mini Paint Part 2 🎨  
+# Mini Paint 🎨  
 
 A simple Java-based painting application that allows users to create, move, resize, save, and load geometric shapes. This project showcases Object-Oriented Programming (OOP) principles and a graphical user interface (GUI) built with the Swing library.
 
